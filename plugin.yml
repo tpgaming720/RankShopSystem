@@ -6,5 +6,5 @@ author: zZPROGAMERZz423 | §eFor issues report by §2Visiting GitHub.com/zZPROGA
 
 depend: [PureChat, PurePerms, EconomyAPI]
 commands:
-  rshop:
+  caverank:
    description: "A rank shop system established for servers"
